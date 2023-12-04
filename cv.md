@@ -15,3 +15,6 @@ Department of Electronics and Nanoelectronics\
 2021 - 2025
 * RS School JavaScript/Front-end 2023Q4\
 2023
+### Languages
+* Russian - Native
+* English - Intermediate
