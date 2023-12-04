@@ -2,7 +2,7 @@
 # Kozlova Elizaveta
 *Junior Front-end Developer*
 
-**Phone** +7 999 999 99 99 |**E-mail** koz.elisaveta@gmail.com | **Discord** nietzschewasanihilist | Moscow, Russia
+**Phone**: +7 999 999 99 99 | **E-mail**: koz.elisaveta@gmail.com | **Discord**: nietzschewasanihilist | Moscow, Russia
 
 | About me |
 |:-:|
