@@ -9,3 +9,9 @@
 | About me |
 |:-:|
 | I am currently studying electronics at the university. I'm interested in learning new things and dealing with difficult tasks. I wanted to get a position as an intern in a developing IT company, where I could expand my knowledge and gain new experience.|
+### Education
+* The National University of Science and Technology MISIS\
+Department of Electronics and Nanoelectronics\
+2021 - 2025
+* RS School JavaScript/Front-end 2023Q4\
+2023
